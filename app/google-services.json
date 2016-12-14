@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "584663068978",
+    "firebase_url": "https://filebasesample.firebaseio.com",
+    "project_id": "filebasesample",
+    "storage_bucket": "filebasesample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584663068978:android:6d09e1d43e640e42",
+        "android_client_info": {
+          "package_name": "app.witness.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584663068978-lr31jp3nm3djl0fgl46aq7e1nme6922a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.witness.com.myapplication",
+            "certificate_hash": "2E27323214CCDE73C26B1847973306E40ED0B0C0"
+          }
+        },
+        {
+          "client_id": "584663068978-dblhhuuf6fkd41edh9drfvp0un6ppcd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIKJD-DllvpC88kBFRnrdaxTZtwFTPQAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584663068978-dblhhuuf6fkd41edh9drfvp0un6ppcd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

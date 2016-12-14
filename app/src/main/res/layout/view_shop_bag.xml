@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2016. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  ~ Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+  ~ Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+  ~ Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+  ~ Vestibulum commodo. Ut rhoncus gravida arcu.
+  -->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="55dp"
+    android:layout_height="55dp">
+
+    <ImageView
+        android:id="@+id/bag_image"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:src="@drawable/ico_float_shopbag" />
+
+    <TextView
+        android:id="@+id/shoppingbag_count_text"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+</FrameLayout>
+
