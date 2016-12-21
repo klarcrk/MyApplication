@@ -22,4 +22,8 @@
     <string name="reveal_body2">Circular Reveal Animation starting from touch coordinates</string>
     <string name="reveal_body3">View layout change animation with Circular Reveal Animation on finish</string>
     <string name="reveal_body4">Circular Reveal Animation from top with nested animations on end</string>
+
+
+    <string name="header_float_behavior">header_float_behavior</string>
+    <string name="header_scrolling_behavior">header_scrolling_behavior</string>
 </resources>

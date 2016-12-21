@@ -79,7 +79,6 @@ public class GoogleAuthActivity extends BaseActivity implements GoogleApiClient.
                 String serverAuthCode = signInAccount.getServerAuthCode();
                 String id = signInAccount.getId();
                 String idToken = signInAccount.getIdToken();
-                String zzafm = signInAccount.zzafm();
             }
             String resultData = mGson.toJson(result);
             tvCoffee.append("\n");
